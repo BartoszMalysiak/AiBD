@@ -1,0 +1,1 @@
+Oryginalne dane w folderze Original Data. Opracowanie w pliku lab2AIBD.ipynb. Plik ten generuje drinks_changed.csv, czyli opracowane dane (znajduje się ten plik w Analysis Data).

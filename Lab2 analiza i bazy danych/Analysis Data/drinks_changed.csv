@@ -1,0 +1,773 @@
+,Country,Type of alcohol,Value
+0,Afghanistan,Beer Servings,0.0
+1,Afghanistan,Spirit Servings,0.0
+2,Afghanistan,Wine Servings,0.0
+3,Afghanistan,Total litres of pure alcohol,0.0
+4,Albania,Beer Servings,89.0
+5,Albania,Spirit Servings,132.0
+6,Albania,Wine Servings,54.0
+7,Albania,Total litres of pure alcohol,4.9
+8,Algeria,Beer Servings,25.0
+9,Algeria,Spirit Servings,0.0
+10,Algeria,Wine Servings,14.0
+11,Algeria,Total litres of pure alcohol,0.7
+12,Andorra,Beer Servings,245.0
+13,Andorra,Spirit Servings,138.0
+14,Andorra,Wine Servings,312.0
+15,Andorra,Total litres of pure alcohol,12.4
+16,Angola,Beer Servings,217.0
+17,Angola,Spirit Servings,57.0
+18,Angola,Wine Servings,45.0
+19,Angola,Total litres of pure alcohol,5.9
+20,Antigua & Barbuda,Beer Servings,102.0
+21,Antigua & Barbuda,Spirit Servings,128.0
+22,Antigua & Barbuda,Wine Servings,45.0
+23,Antigua & Barbuda,Total litres of pure alcohol,4.9
+24,Argentina,Beer Servings,193.0
+25,Argentina,Spirit Servings,25.0
+26,Argentina,Wine Servings,221.0
+27,Argentina,Total litres of pure alcohol,8.3
+28,Armenia,Beer Servings,21.0
+29,Armenia,Spirit Servings,179.0
+30,Armenia,Wine Servings,11.0
+31,Armenia,Total litres of pure alcohol,3.8
+32,Australia,Beer Servings,261.0
+33,Australia,Spirit Servings,72.0
+34,Australia,Wine Servings,212.0
+35,Australia,Total litres of pure alcohol,10.4
+36,Austria,Beer Servings,279.0
+37,Austria,Spirit Servings,75.0
+38,Austria,Wine Servings,191.0
+39,Austria,Total litres of pure alcohol,9.7
+40,Azerbaijan,Beer Servings,21.0
+41,Azerbaijan,Spirit Servings,46.0
+42,Azerbaijan,Wine Servings,5.0
+43,Azerbaijan,Total litres of pure alcohol,1.3
+44,Bahamas,Beer Servings,122.0
+45,Bahamas,Spirit Servings,176.0
+46,Bahamas,Wine Servings,51.0
+47,Bahamas,Total litres of pure alcohol,6.3
+48,Bahrain,Beer Servings,42.0
+49,Bahrain,Spirit Servings,63.0
+50,Bahrain,Wine Servings,7.0
+51,Bahrain,Total litres of pure alcohol,2.0
+52,Bangladesh,Beer Servings,0.0
+53,Bangladesh,Spirit Servings,0.0
+54,Bangladesh,Wine Servings,0.0
+55,Bangladesh,Total litres of pure alcohol,0.0
+56,Barbados,Beer Servings,143.0
+57,Barbados,Spirit Servings,173.0
+58,Barbados,Wine Servings,36.0
+59,Barbados,Total litres of pure alcohol,6.3
+60,Belarus,Beer Servings,142.0
+61,Belarus,Spirit Servings,373.0
+62,Belarus,Wine Servings,42.0
+63,Belarus,Total litres of pure alcohol,14.4
+64,Belgium,Beer Servings,295.0
+65,Belgium,Spirit Servings,84.0
+66,Belgium,Wine Servings,212.0
+67,Belgium,Total litres of pure alcohol,10.5
+68,Belize,Beer Servings,263.0
+69,Belize,Spirit Servings,114.0
+70,Belize,Wine Servings,8.0
+71,Belize,Total litres of pure alcohol,6.8
+72,Benin,Beer Servings,34.0
+73,Benin,Spirit Servings,4.0
+74,Benin,Wine Servings,13.0
+75,Benin,Total litres of pure alcohol,1.1
+76,Bhutan,Beer Servings,23.0
+77,Bhutan,Spirit Servings,0.0
+78,Bhutan,Wine Servings,0.0
+79,Bhutan,Total litres of pure alcohol,0.4
+80,Bolivia,Beer Servings,167.0
+81,Bolivia,Spirit Servings,41.0
+82,Bolivia,Wine Servings,8.0
+83,Bolivia,Total litres of pure alcohol,3.8
+84,Bosnia-Herzegovina,Beer Servings,76.0
+85,Bosnia-Herzegovina,Spirit Servings,173.0
+86,Bosnia-Herzegovina,Wine Servings,8.0
+87,Bosnia-Herzegovina,Total litres of pure alcohol,4.6
+88,Botswana,Beer Servings,173.0
+89,Botswana,Spirit Servings,35.0
+90,Botswana,Wine Servings,35.0
+91,Botswana,Total litres of pure alcohol,5.4
+92,Brazil,Beer Servings,245.0
+93,Brazil,Spirit Servings,145.0
+94,Brazil,Wine Servings,16.0
+95,Brazil,Total litres of pure alcohol,7.2
+96,Brunei,Beer Servings,31.0
+97,Brunei,Spirit Servings,2.0
+98,Brunei,Wine Servings,1.0
+99,Brunei,Total litres of pure alcohol,0.6
+100,Bulgaria,Beer Servings,231.0
+101,Bulgaria,Spirit Servings,252.0
+102,Bulgaria,Wine Servings,94.0
+103,Bulgaria,Total litres of pure alcohol,10.3
+104,Burkina Faso,Beer Servings,25.0
+105,Burkina Faso,Spirit Servings,7.0
+106,Burkina Faso,Wine Servings,7.0
+107,Burkina Faso,Total litres of pure alcohol,4.3
+108,Burundi,Beer Servings,88.0
+109,Burundi,Spirit Servings,0.0
+110,Burundi,Wine Servings,0.0
+111,Burundi,Total litres of pure alcohol,6.3
+112,Cote d'Ivoire,Beer Servings,37.0
+113,Cote d'Ivoire,Spirit Servings,1.0
+114,Cote d'Ivoire,Wine Servings,7.0
+115,Cote d'Ivoire,Total litres of pure alcohol,4.0
+116,Cabo Verde,Beer Servings,144.0
+117,Cabo Verde,Spirit Servings,56.0
+118,Cabo Verde,Wine Servings,16.0
+119,Cabo Verde,Total litres of pure alcohol,4.0
+120,Cambodia,Beer Servings,57.0
+121,Cambodia,Spirit Servings,65.0
+122,Cambodia,Wine Servings,1.0
+123,Cambodia,Total litres of pure alcohol,2.2
+124,Cameroon,Beer Servings,147.0
+125,Cameroon,Spirit Servings,1.0
+126,Cameroon,Wine Servings,4.0
+127,Cameroon,Total litres of pure alcohol,5.8
+128,Canada,Beer Servings,240.0
+129,Canada,Spirit Servings,122.0
+130,Canada,Wine Servings,100.0
+131,Canada,Total litres of pure alcohol,8.2
+132,Central African Republic,Beer Servings,17.0
+133,Central African Republic,Spirit Servings,2.0
+134,Central African Republic,Wine Servings,1.0
+135,Central African Republic,Total litres of pure alcohol,1.8
+136,Chad,Beer Servings,15.0
+137,Chad,Spirit Servings,1.0
+138,Chad,Wine Servings,1.0
+139,Chad,Total litres of pure alcohol,0.4
+140,Chile,Beer Servings,130.0
+141,Chile,Spirit Servings,124.0
+142,Chile,Wine Servings,172.0
+143,Chile,Total litres of pure alcohol,7.6
+144,China,Beer Servings,79.0
+145,China,Spirit Servings,192.0
+146,China,Wine Servings,8.0
+147,China,Total litres of pure alcohol,5.0
+148,Colombia,Beer Servings,159.0
+149,Colombia,Spirit Servings,76.0
+150,Colombia,Wine Servings,3.0
+151,Colombia,Total litres of pure alcohol,4.2
+152,Comoros,Beer Servings,1.0
+153,Comoros,Spirit Servings,3.0
+154,Comoros,Wine Servings,1.0
+155,Comoros,Total litres of pure alcohol,0.1
+156,Congo,Beer Servings,76.0
+157,Congo,Spirit Servings,1.0
+158,Congo,Wine Servings,9.0
+159,Congo,Total litres of pure alcohol,1.7
+160,Cook Islands,Beer Servings,0.0
+161,Cook Islands,Spirit Servings,254.0
+162,Cook Islands,Wine Servings,74.0
+163,Cook Islands,Total litres of pure alcohol,5.9
+164,Costa Rica,Beer Servings,149.0
+165,Costa Rica,Spirit Servings,87.0
+166,Costa Rica,Wine Servings,11.0
+167,Costa Rica,Total litres of pure alcohol,4.4
+168,Croatia,Beer Servings,230.0
+169,Croatia,Spirit Servings,87.0
+170,Croatia,Wine Servings,254.0
+171,Croatia,Total litres of pure alcohol,10.2
+172,Cuba,Beer Servings,93.0
+173,Cuba,Spirit Servings,137.0
+174,Cuba,Wine Servings,5.0
+175,Cuba,Total litres of pure alcohol,4.2
+176,Cyprus,Beer Servings,192.0
+177,Cyprus,Spirit Servings,154.0
+178,Cyprus,Wine Servings,113.0
+179,Cyprus,Total litres of pure alcohol,8.2
+180,Czech Republic,Beer Servings,361.0
+181,Czech Republic,Spirit Servings,170.0
+182,Czech Republic,Wine Servings,134.0
+183,Czech Republic,Total litres of pure alcohol,11.8
+184,North Korea,Beer Servings,0.0
+185,North Korea,Spirit Servings,0.0
+186,North Korea,Wine Servings,0.0
+187,North Korea,Total litres of pure alcohol,0.0
+188,DR Congo,Beer Servings,32.0
+189,DR Congo,Spirit Servings,3.0
+190,DR Congo,Wine Servings,1.0
+191,DR Congo,Total litres of pure alcohol,2.3
+192,Denmark,Beer Servings,224.0
+193,Denmark,Spirit Servings,81.0
+194,Denmark,Wine Servings,278.0
+195,Denmark,Total litres of pure alcohol,10.4
+196,Djibouti,Beer Servings,15.0
+197,Djibouti,Spirit Servings,44.0
+198,Djibouti,Wine Servings,3.0
+199,Djibouti,Total litres of pure alcohol,1.1
+200,Dominica,Beer Servings,52.0
+201,Dominica,Spirit Servings,286.0
+202,Dominica,Wine Servings,26.0
+203,Dominica,Total litres of pure alcohol,6.6
+204,Dominican Republic,Beer Servings,193.0
+205,Dominican Republic,Spirit Servings,147.0
+206,Dominican Republic,Wine Servings,9.0
+207,Dominican Republic,Total litres of pure alcohol,6.2
+208,Ecuador,Beer Servings,162.0
+209,Ecuador,Spirit Servings,74.0
+210,Ecuador,Wine Servings,3.0
+211,Ecuador,Total litres of pure alcohol,4.2
+212,Egypt,Beer Servings,6.0
+213,Egypt,Spirit Servings,4.0
+214,Egypt,Wine Servings,1.0
+215,Egypt,Total litres of pure alcohol,0.2
+216,El Salvador,Beer Servings,52.0
+217,El Salvador,Spirit Servings,69.0
+218,El Salvador,Wine Servings,2.0
+219,El Salvador,Total litres of pure alcohol,2.2
+220,Equatorial Guinea,Beer Servings,92.0
+221,Equatorial Guinea,Spirit Servings,0.0
+222,Equatorial Guinea,Wine Servings,233.0
+223,Equatorial Guinea,Total litres of pure alcohol,5.8
+224,Eritrea,Beer Servings,18.0
+225,Eritrea,Spirit Servings,0.0
+226,Eritrea,Wine Servings,0.0
+227,Eritrea,Total litres of pure alcohol,0.5
+228,Estonia,Beer Servings,224.0
+229,Estonia,Spirit Servings,194.0
+230,Estonia,Wine Servings,59.0
+231,Estonia,Total litres of pure alcohol,9.5
+232,Ethiopia,Beer Servings,20.0
+233,Ethiopia,Spirit Servings,3.0
+234,Ethiopia,Wine Servings,0.0
+235,Ethiopia,Total litres of pure alcohol,0.7
+236,Fiji,Beer Servings,77.0
+237,Fiji,Spirit Servings,35.0
+238,Fiji,Wine Servings,1.0
+239,Fiji,Total litres of pure alcohol,2.0
+240,Finland,Beer Servings,263.0
+241,Finland,Spirit Servings,133.0
+242,Finland,Wine Servings,97.0
+243,Finland,Total litres of pure alcohol,10.0
+244,France,Beer Servings,127.0
+245,France,Spirit Servings,151.0
+246,France,Wine Servings,370.0
+247,France,Total litres of pure alcohol,11.8
+248,Gabon,Beer Servings,347.0
+249,Gabon,Spirit Servings,98.0
+250,Gabon,Wine Servings,59.0
+251,Gabon,Total litres of pure alcohol,8.9
+252,Gambia,Beer Servings,8.0
+253,Gambia,Spirit Servings,0.0
+254,Gambia,Wine Servings,1.0
+255,Gambia,Total litres of pure alcohol,2.4
+256,Georgia,Beer Servings,52.0
+257,Georgia,Spirit Servings,100.0
+258,Georgia,Wine Servings,149.0
+259,Georgia,Total litres of pure alcohol,5.4
+260,Germany,Beer Servings,346.0
+261,Germany,Spirit Servings,117.0
+262,Germany,Wine Servings,175.0
+263,Germany,Total litres of pure alcohol,11.3
+264,Ghana,Beer Servings,31.0
+265,Ghana,Spirit Servings,3.0
+266,Ghana,Wine Servings,10.0
+267,Ghana,Total litres of pure alcohol,1.8
+268,Greece,Beer Servings,133.0
+269,Greece,Spirit Servings,112.0
+270,Greece,Wine Servings,218.0
+271,Greece,Total litres of pure alcohol,8.3
+272,Grenada,Beer Servings,199.0
+273,Grenada,Spirit Servings,438.0
+274,Grenada,Wine Servings,28.0
+275,Grenada,Total litres of pure alcohol,11.9
+276,Guatemala,Beer Servings,53.0
+277,Guatemala,Spirit Servings,69.0
+278,Guatemala,Wine Servings,2.0
+279,Guatemala,Total litres of pure alcohol,2.2
+280,Guinea,Beer Servings,9.0
+281,Guinea,Spirit Servings,0.0
+282,Guinea,Wine Servings,2.0
+283,Guinea,Total litres of pure alcohol,0.2
+284,Guinea-Bissau,Beer Servings,28.0
+285,Guinea-Bissau,Spirit Servings,31.0
+286,Guinea-Bissau,Wine Servings,21.0
+287,Guinea-Bissau,Total litres of pure alcohol,2.5
+288,Guyana,Beer Servings,93.0
+289,Guyana,Spirit Servings,302.0
+290,Guyana,Wine Servings,1.0
+291,Guyana,Total litres of pure alcohol,7.1
+292,Haiti,Beer Servings,1.0
+293,Haiti,Spirit Servings,326.0
+294,Haiti,Wine Servings,1.0
+295,Haiti,Total litres of pure alcohol,5.9
+296,Honduras,Beer Servings,69.0
+297,Honduras,Spirit Servings,98.0
+298,Honduras,Wine Servings,2.0
+299,Honduras,Total litres of pure alcohol,3.0
+300,Hungary,Beer Servings,234.0
+301,Hungary,Spirit Servings,215.0
+302,Hungary,Wine Servings,185.0
+303,Hungary,Total litres of pure alcohol,11.3
+304,Iceland,Beer Servings,233.0
+305,Iceland,Spirit Servings,61.0
+306,Iceland,Wine Servings,78.0
+307,Iceland,Total litres of pure alcohol,6.6
+308,India,Beer Servings,9.0
+309,India,Spirit Servings,114.0
+310,India,Wine Servings,0.0
+311,India,Total litres of pure alcohol,2.2
+312,Indonesia,Beer Servings,5.0
+313,Indonesia,Spirit Servings,1.0
+314,Indonesia,Wine Servings,0.0
+315,Indonesia,Total litres of pure alcohol,0.1
+316,Iran,Beer Servings,0.0
+317,Iran,Spirit Servings,0.0
+318,Iran,Wine Servings,0.0
+319,Iran,Total litres of pure alcohol,0.0
+320,Iraq,Beer Servings,9.0
+321,Iraq,Spirit Servings,3.0
+322,Iraq,Wine Servings,0.0
+323,Iraq,Total litres of pure alcohol,0.2
+324,Ireland,Beer Servings,313.0
+325,Ireland,Spirit Servings,118.0
+326,Ireland,Wine Servings,165.0
+327,Ireland,Total litres of pure alcohol,11.4
+328,Israel,Beer Servings,63.0
+329,Israel,Spirit Servings,69.0
+330,Israel,Wine Servings,9.0
+331,Israel,Total litres of pure alcohol,2.5
+332,Italy,Beer Servings,85.0
+333,Italy,Spirit Servings,42.0
+334,Italy,Wine Servings,237.0
+335,Italy,Total litres of pure alcohol,6.5
+336,Jamaica,Beer Servings,82.0
+337,Jamaica,Spirit Servings,97.0
+338,Jamaica,Wine Servings,9.0
+339,Jamaica,Total litres of pure alcohol,3.4
+340,Japan,Beer Servings,77.0
+341,Japan,Spirit Servings,202.0
+342,Japan,Wine Servings,16.0
+343,Japan,Total litres of pure alcohol,7.0
+344,Jordan,Beer Servings,6.0
+345,Jordan,Spirit Servings,21.0
+346,Jordan,Wine Servings,1.0
+347,Jordan,Total litres of pure alcohol,0.5
+348,Kazakhstan,Beer Servings,124.0
+349,Kazakhstan,Spirit Servings,246.0
+350,Kazakhstan,Wine Servings,12.0
+351,Kazakhstan,Total litres of pure alcohol,6.8
+352,Kenya,Beer Servings,58.0
+353,Kenya,Spirit Servings,22.0
+354,Kenya,Wine Servings,2.0
+355,Kenya,Total litres of pure alcohol,1.8
+356,Kiribati,Beer Servings,21.0
+357,Kiribati,Spirit Servings,34.0
+358,Kiribati,Wine Servings,1.0
+359,Kiribati,Total litres of pure alcohol,1.0
+360,Kuwait,Beer Servings,0.0
+361,Kuwait,Spirit Servings,0.0
+362,Kuwait,Wine Servings,0.0
+363,Kuwait,Total litres of pure alcohol,0.0
+364,Kyrgyzstan,Beer Servings,31.0
+365,Kyrgyzstan,Spirit Servings,97.0
+366,Kyrgyzstan,Wine Servings,6.0
+367,Kyrgyzstan,Total litres of pure alcohol,2.4
+368,Laos,Beer Servings,62.0
+369,Laos,Spirit Servings,0.0
+370,Laos,Wine Servings,123.0
+371,Laos,Total litres of pure alcohol,6.2
+372,Latvia,Beer Servings,281.0
+373,Latvia,Spirit Servings,216.0
+374,Latvia,Wine Servings,62.0
+375,Latvia,Total litres of pure alcohol,10.5
+376,Lebanon,Beer Servings,20.0
+377,Lebanon,Spirit Servings,55.0
+378,Lebanon,Wine Servings,31.0
+379,Lebanon,Total litres of pure alcohol,1.9
+380,Lesotho,Beer Servings,82.0
+381,Lesotho,Spirit Servings,29.0
+382,Lesotho,Wine Servings,0.0
+383,Lesotho,Total litres of pure alcohol,2.8
+384,Liberia,Beer Servings,19.0
+385,Liberia,Spirit Servings,152.0
+386,Liberia,Wine Servings,2.0
+387,Liberia,Total litres of pure alcohol,3.1
+388,Libya,Beer Servings,0.0
+389,Libya,Spirit Servings,0.0
+390,Libya,Wine Servings,0.0
+391,Libya,Total litres of pure alcohol,0.0
+392,Lithuania,Beer Servings,343.0
+393,Lithuania,Spirit Servings,244.0
+394,Lithuania,Wine Servings,56.0
+395,Lithuania,Total litres of pure alcohol,12.9
+396,Luxembourg,Beer Servings,236.0
+397,Luxembourg,Spirit Servings,133.0
+398,Luxembourg,Wine Servings,271.0
+399,Luxembourg,Total litres of pure alcohol,11.4
+400,Madagascar,Beer Servings,26.0
+401,Madagascar,Spirit Servings,15.0
+402,Madagascar,Wine Servings,4.0
+403,Madagascar,Total litres of pure alcohol,0.8
+404,Malawi,Beer Servings,8.0
+405,Malawi,Spirit Servings,11.0
+406,Malawi,Wine Servings,1.0
+407,Malawi,Total litres of pure alcohol,1.5
+408,Malaysia,Beer Servings,13.0
+409,Malaysia,Spirit Servings,4.0
+410,Malaysia,Wine Servings,0.0
+411,Malaysia,Total litres of pure alcohol,0.3
+412,Maldives,Beer Servings,0.0
+413,Maldives,Spirit Servings,0.0
+414,Maldives,Wine Servings,0.0
+415,Maldives,Total litres of pure alcohol,0.0
+416,Mali,Beer Servings,5.0
+417,Mali,Spirit Servings,1.0
+418,Mali,Wine Servings,1.0
+419,Mali,Total litres of pure alcohol,0.6
+420,Malta,Beer Servings,149.0
+421,Malta,Spirit Servings,100.0
+422,Malta,Wine Servings,120.0
+423,Malta,Total litres of pure alcohol,6.6
+424,Marshall Islands,Beer Servings,0.0
+425,Marshall Islands,Spirit Servings,0.0
+426,Marshall Islands,Wine Servings,0.0
+427,Marshall Islands,Total litres of pure alcohol,0.0
+428,Mauritania,Beer Servings,0.0
+429,Mauritania,Spirit Servings,0.0
+430,Mauritania,Wine Servings,0.0
+431,Mauritania,Total litres of pure alcohol,0.0
+432,Mauritius,Beer Servings,98.0
+433,Mauritius,Spirit Servings,31.0
+434,Mauritius,Wine Servings,18.0
+435,Mauritius,Total litres of pure alcohol,2.6
+436,Mexico,Beer Servings,238.0
+437,Mexico,Spirit Servings,68.0
+438,Mexico,Wine Servings,5.0
+439,Mexico,Total litres of pure alcohol,5.5
+440,Micronesia,Beer Servings,62.0
+441,Micronesia,Spirit Servings,50.0
+442,Micronesia,Wine Servings,18.0
+443,Micronesia,Total litres of pure alcohol,2.3
+444,Monaco,Beer Servings,0.0
+445,Monaco,Spirit Servings,0.0
+446,Monaco,Wine Servings,0.0
+447,Monaco,Total litres of pure alcohol,0.0
+448,Mongolia,Beer Servings,77.0
+449,Mongolia,Spirit Servings,189.0
+450,Mongolia,Wine Servings,8.0
+451,Mongolia,Total litres of pure alcohol,4.9
+452,Montenegro,Beer Servings,31.0
+453,Montenegro,Spirit Servings,114.0
+454,Montenegro,Wine Servings,128.0
+455,Montenegro,Total litres of pure alcohol,4.9
+456,Morocco,Beer Servings,12.0
+457,Morocco,Spirit Servings,6.0
+458,Morocco,Wine Servings,10.0
+459,Morocco,Total litres of pure alcohol,0.5
+460,Mozambique,Beer Servings,47.0
+461,Mozambique,Spirit Servings,18.0
+462,Mozambique,Wine Servings,5.0
+463,Mozambique,Total litres of pure alcohol,1.3
+464,Myanmar,Beer Servings,5.0
+465,Myanmar,Spirit Servings,1.0
+466,Myanmar,Wine Servings,0.0
+467,Myanmar,Total litres of pure alcohol,0.1
+468,Namibia,Beer Servings,376.0
+469,Namibia,Spirit Servings,3.0
+470,Namibia,Wine Servings,1.0
+471,Namibia,Total litres of pure alcohol,6.8
+472,Nauru,Beer Servings,49.0
+473,Nauru,Spirit Servings,0.0
+474,Nauru,Wine Servings,8.0
+475,Nauru,Total litres of pure alcohol,1.0
+476,Nepal,Beer Servings,5.0
+477,Nepal,Spirit Servings,6.0
+478,Nepal,Wine Servings,0.0
+479,Nepal,Total litres of pure alcohol,0.2
+480,Netherlands,Beer Servings,251.0
+481,Netherlands,Spirit Servings,88.0
+482,Netherlands,Wine Servings,190.0
+483,Netherlands,Total litres of pure alcohol,9.4
+484,New Zealand,Beer Servings,203.0
+485,New Zealand,Spirit Servings,79.0
+486,New Zealand,Wine Servings,175.0
+487,New Zealand,Total litres of pure alcohol,9.3
+488,Nicaragua,Beer Servings,78.0
+489,Nicaragua,Spirit Servings,118.0
+490,Nicaragua,Wine Servings,1.0
+491,Nicaragua,Total litres of pure alcohol,3.5
+492,Niger,Beer Servings,3.0
+493,Niger,Spirit Servings,2.0
+494,Niger,Wine Servings,1.0
+495,Niger,Total litres of pure alcohol,0.1
+496,Nigeria,Beer Servings,42.0
+497,Nigeria,Spirit Servings,5.0
+498,Nigeria,Wine Servings,2.0
+499,Nigeria,Total litres of pure alcohol,9.1
+500,Niue,Beer Servings,188.0
+501,Niue,Spirit Servings,200.0
+502,Niue,Wine Servings,7.0
+503,Niue,Total litres of pure alcohol,7.0
+504,Norway,Beer Servings,169.0
+505,Norway,Spirit Servings,71.0
+506,Norway,Wine Servings,129.0
+507,Norway,Total litres of pure alcohol,6.7
+508,Oman,Beer Servings,22.0
+509,Oman,Spirit Servings,16.0
+510,Oman,Wine Servings,1.0
+511,Oman,Total litres of pure alcohol,0.7
+512,Pakistan,Beer Servings,0.0
+513,Pakistan,Spirit Servings,0.0
+514,Pakistan,Wine Servings,0.0
+515,Pakistan,Total litres of pure alcohol,0.0
+516,Palau,Beer Servings,306.0
+517,Palau,Spirit Servings,63.0
+518,Palau,Wine Servings,23.0
+519,Palau,Total litres of pure alcohol,6.9
+520,Panama,Beer Servings,285.0
+521,Panama,Spirit Servings,104.0
+522,Panama,Wine Servings,18.0
+523,Panama,Total litres of pure alcohol,7.2
+524,Papua New Guinea,Beer Servings,44.0
+525,Papua New Guinea,Spirit Servings,39.0
+526,Papua New Guinea,Wine Servings,1.0
+527,Papua New Guinea,Total litres of pure alcohol,1.5
+528,Paraguay,Beer Servings,213.0
+529,Paraguay,Spirit Servings,117.0
+530,Paraguay,Wine Servings,74.0
+531,Paraguay,Total litres of pure alcohol,7.3
+532,Peru,Beer Servings,163.0
+533,Peru,Spirit Servings,160.0
+534,Peru,Wine Servings,21.0
+535,Peru,Total litres of pure alcohol,6.1
+536,Philippines,Beer Servings,71.0
+537,Philippines,Spirit Servings,186.0
+538,Philippines,Wine Servings,1.0
+539,Philippines,Total litres of pure alcohol,4.6
+540,Poland,Beer Servings,343.0
+541,Poland,Spirit Servings,215.0
+542,Poland,Wine Servings,56.0
+543,Poland,Total litres of pure alcohol,10.9
+544,Portugal,Beer Servings,194.0
+545,Portugal,Spirit Servings,67.0
+546,Portugal,Wine Servings,339.0
+547,Portugal,Total litres of pure alcohol,11.0
+548,Qatar,Beer Servings,1.0
+549,Qatar,Spirit Servings,42.0
+550,Qatar,Wine Servings,7.0
+551,Qatar,Total litres of pure alcohol,0.9
+552,South Korea,Beer Servings,140.0
+553,South Korea,Spirit Servings,16.0
+554,South Korea,Wine Servings,9.0
+555,South Korea,Total litres of pure alcohol,9.8
+556,Moldova,Beer Servings,109.0
+557,Moldova,Spirit Servings,226.0
+558,Moldova,Wine Servings,18.0
+559,Moldova,Total litres of pure alcohol,6.3
+560,Romania,Beer Servings,297.0
+561,Romania,Spirit Servings,122.0
+562,Romania,Wine Servings,167.0
+563,Romania,Total litres of pure alcohol,10.4
+564,Russian Federation,Beer Servings,247.0
+565,Russian Federation,Spirit Servings,326.0
+566,Russian Federation,Wine Servings,73.0
+567,Russian Federation,Total litres of pure alcohol,11.5
+568,Rwanda,Beer Servings,43.0
+569,Rwanda,Spirit Servings,2.0
+570,Rwanda,Wine Servings,0.0
+571,Rwanda,Total litres of pure alcohol,6.8
+572,St. Kitts & Nevis,Beer Servings,194.0
+573,St. Kitts & Nevis,Spirit Servings,205.0
+574,St. Kitts & Nevis,Wine Servings,32.0
+575,St. Kitts & Nevis,Total litres of pure alcohol,7.7
+576,St. Lucia,Beer Servings,171.0
+577,St. Lucia,Spirit Servings,315.0
+578,St. Lucia,Wine Servings,71.0
+579,St. Lucia,Total litres of pure alcohol,10.1
+580,St. Vincent & the Grenadines,Beer Servings,120.0
+581,St. Vincent & the Grenadines,Spirit Servings,221.0
+582,St. Vincent & the Grenadines,Wine Servings,11.0
+583,St. Vincent & the Grenadines,Total litres of pure alcohol,6.3
+584,Samoa,Beer Servings,105.0
+585,Samoa,Spirit Servings,18.0
+586,Samoa,Wine Servings,24.0
+587,Samoa,Total litres of pure alcohol,2.6
+588,San Marino,Beer Servings,0.0
+589,San Marino,Spirit Servings,0.0
+590,San Marino,Wine Servings,0.0
+591,San Marino,Total litres of pure alcohol,0.0
+592,Sao Tome & Principe,Beer Servings,56.0
+593,Sao Tome & Principe,Spirit Servings,38.0
+594,Sao Tome & Principe,Wine Servings,140.0
+595,Sao Tome & Principe,Total litres of pure alcohol,4.2
+596,Saudi Arabia,Beer Servings,0.0
+597,Saudi Arabia,Spirit Servings,5.0
+598,Saudi Arabia,Wine Servings,0.0
+599,Saudi Arabia,Total litres of pure alcohol,0.1
+600,Senegal,Beer Servings,9.0
+601,Senegal,Spirit Servings,1.0
+602,Senegal,Wine Servings,7.0
+603,Senegal,Total litres of pure alcohol,0.3
+604,Serbia,Beer Servings,283.0
+605,Serbia,Spirit Servings,131.0
+606,Serbia,Wine Servings,127.0
+607,Serbia,Total litres of pure alcohol,9.6
+608,Seychelles,Beer Servings,157.0
+609,Seychelles,Spirit Servings,25.0
+610,Seychelles,Wine Servings,51.0
+611,Seychelles,Total litres of pure alcohol,4.1
+612,Sierra Leone,Beer Servings,25.0
+613,Sierra Leone,Spirit Servings,3.0
+614,Sierra Leone,Wine Servings,2.0
+615,Sierra Leone,Total litres of pure alcohol,6.7
+616,Singapore,Beer Servings,60.0
+617,Singapore,Spirit Servings,12.0
+618,Singapore,Wine Servings,11.0
+619,Singapore,Total litres of pure alcohol,1.5
+620,Slovakia,Beer Servings,196.0
+621,Slovakia,Spirit Servings,293.0
+622,Slovakia,Wine Servings,116.0
+623,Slovakia,Total litres of pure alcohol,11.4
+624,Slovenia,Beer Servings,270.0
+625,Slovenia,Spirit Servings,51.0
+626,Slovenia,Wine Servings,276.0
+627,Slovenia,Total litres of pure alcohol,10.6
+628,Solomon Islands,Beer Servings,56.0
+629,Solomon Islands,Spirit Servings,11.0
+630,Solomon Islands,Wine Servings,1.0
+631,Solomon Islands,Total litres of pure alcohol,1.2
+632,Somalia,Beer Servings,0.0
+633,Somalia,Spirit Servings,0.0
+634,Somalia,Wine Servings,0.0
+635,Somalia,Total litres of pure alcohol,0.0
+636,South Africa,Beer Servings,225.0
+637,South Africa,Spirit Servings,76.0
+638,South Africa,Wine Servings,81.0
+639,South Africa,Total litres of pure alcohol,8.2
+640,Spain,Beer Servings,284.0
+641,Spain,Spirit Servings,157.0
+642,Spain,Wine Servings,112.0
+643,Spain,Total litres of pure alcohol,10.0
+644,Sri Lanka,Beer Servings,16.0
+645,Sri Lanka,Spirit Servings,104.0
+646,Sri Lanka,Wine Servings,0.0
+647,Sri Lanka,Total litres of pure alcohol,2.2
+648,Sudan,Beer Servings,8.0
+649,Sudan,Spirit Servings,13.0
+650,Sudan,Wine Servings,0.0
+651,Sudan,Total litres of pure alcohol,1.7
+652,Suriname,Beer Servings,128.0
+653,Suriname,Spirit Servings,178.0
+654,Suriname,Wine Servings,7.0
+655,Suriname,Total litres of pure alcohol,5.6
+656,Swaziland,Beer Servings,90.0
+657,Swaziland,Spirit Servings,2.0
+658,Swaziland,Wine Servings,2.0
+659,Swaziland,Total litres of pure alcohol,4.7
+660,Sweden,Beer Servings,152.0
+661,Sweden,Spirit Servings,60.0
+662,Sweden,Wine Servings,186.0
+663,Sweden,Total litres of pure alcohol,7.2
+664,Switzerland,Beer Servings,185.0
+665,Switzerland,Spirit Servings,100.0
+666,Switzerland,Wine Servings,280.0
+667,Switzerland,Total litres of pure alcohol,10.2
+668,Syria,Beer Servings,5.0
+669,Syria,Spirit Servings,35.0
+670,Syria,Wine Servings,16.0
+671,Syria,Total litres of pure alcohol,1.0
+672,Tajikistan,Beer Servings,2.0
+673,Tajikistan,Spirit Servings,15.0
+674,Tajikistan,Wine Servings,0.0
+675,Tajikistan,Total litres of pure alcohol,0.3
+676,Thailand,Beer Servings,99.0
+677,Thailand,Spirit Servings,258.0
+678,Thailand,Wine Servings,1.0
+679,Thailand,Total litres of pure alcohol,6.4
+680,Macedonia,Beer Servings,106.0
+681,Macedonia,Spirit Servings,27.0
+682,Macedonia,Wine Servings,86.0
+683,Macedonia,Total litres of pure alcohol,3.9
+684,Timor-Leste,Beer Servings,1.0
+685,Timor-Leste,Spirit Servings,1.0
+686,Timor-Leste,Wine Servings,4.0
+687,Timor-Leste,Total litres of pure alcohol,0.1
+688,Togo,Beer Servings,36.0
+689,Togo,Spirit Servings,2.0
+690,Togo,Wine Servings,19.0
+691,Togo,Total litres of pure alcohol,1.3
+692,Tonga,Beer Servings,36.0
+693,Tonga,Spirit Servings,21.0
+694,Tonga,Wine Servings,5.0
+695,Tonga,Total litres of pure alcohol,1.1
+696,Trinidad & Tobago,Beer Servings,197.0
+697,Trinidad & Tobago,Spirit Servings,156.0
+698,Trinidad & Tobago,Wine Servings,7.0
+699,Trinidad & Tobago,Total litres of pure alcohol,6.4
+700,Tunisia,Beer Servings,51.0
+701,Tunisia,Spirit Servings,3.0
+702,Tunisia,Wine Servings,20.0
+703,Tunisia,Total litres of pure alcohol,1.3
+704,Turkey,Beer Servings,51.0
+705,Turkey,Spirit Servings,22.0
+706,Turkey,Wine Servings,7.0
+707,Turkey,Total litres of pure alcohol,1.4
+708,Turkmenistan,Beer Servings,19.0
+709,Turkmenistan,Spirit Servings,71.0
+710,Turkmenistan,Wine Servings,32.0
+711,Turkmenistan,Total litres of pure alcohol,2.2
+712,Tuvalu,Beer Servings,6.0
+713,Tuvalu,Spirit Servings,41.0
+714,Tuvalu,Wine Servings,9.0
+715,Tuvalu,Total litres of pure alcohol,1.0
+716,Uganda,Beer Servings,45.0
+717,Uganda,Spirit Servings,9.0
+718,Uganda,Wine Servings,0.0
+719,Uganda,Total litres of pure alcohol,8.3
+720,Ukraine,Beer Servings,206.0
+721,Ukraine,Spirit Servings,237.0
+722,Ukraine,Wine Servings,45.0
+723,Ukraine,Total litres of pure alcohol,8.9
+724,United Arab Emirates,Beer Servings,16.0
+725,United Arab Emirates,Spirit Servings,135.0
+726,United Arab Emirates,Wine Servings,5.0
+727,United Arab Emirates,Total litres of pure alcohol,2.8
+728,United Kingdom,Beer Servings,219.0
+729,United Kingdom,Spirit Servings,126.0
+730,United Kingdom,Wine Servings,195.0
+731,United Kingdom,Total litres of pure alcohol,10.4
+732,Tanzania,Beer Servings,36.0
+733,Tanzania,Spirit Servings,6.0
+734,Tanzania,Wine Servings,1.0
+735,Tanzania,Total litres of pure alcohol,5.7
+736,USA,Beer Servings,249.0
+737,USA,Spirit Servings,158.0
+738,USA,Wine Servings,84.0
+739,USA,Total litres of pure alcohol,8.7
+740,Uruguay,Beer Servings,115.0
+741,Uruguay,Spirit Servings,35.0
+742,Uruguay,Wine Servings,220.0
+743,Uruguay,Total litres of pure alcohol,6.6
+744,Uzbekistan,Beer Servings,25.0
+745,Uzbekistan,Spirit Servings,101.0
+746,Uzbekistan,Wine Servings,8.0
+747,Uzbekistan,Total litres of pure alcohol,2.4
+748,Vanuatu,Beer Servings,21.0
+749,Vanuatu,Spirit Servings,18.0
+750,Vanuatu,Wine Servings,11.0
+751,Vanuatu,Total litres of pure alcohol,0.9
+752,Venezuela,Beer Servings,333.0
+753,Venezuela,Spirit Servings,100.0
+754,Venezuela,Wine Servings,3.0
+755,Venezuela,Total litres of pure alcohol,7.7
+756,Vietnam,Beer Servings,111.0
+757,Vietnam,Spirit Servings,2.0
+758,Vietnam,Wine Servings,1.0
+759,Vietnam,Total litres of pure alcohol,2.0
+760,Yemen,Beer Servings,6.0
+761,Yemen,Spirit Servings,0.0
+762,Yemen,Wine Servings,0.0
+763,Yemen,Total litres of pure alcohol,0.1
+764,Zambia,Beer Servings,32.0
+765,Zambia,Spirit Servings,19.0
+766,Zambia,Wine Servings,4.0
+767,Zambia,Total litres of pure alcohol,2.5
+768,Zimbabwe,Beer Servings,64.0
+769,Zimbabwe,Spirit Servings,18.0
+770,Zimbabwe,Wine Servings,4.0
+771,Zimbabwe,Total litres of pure alcohol,4.7
